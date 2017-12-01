@@ -15,14 +15,16 @@ FUNCIONALIDADES:
   FOTOS DOS LOCAIS
  
  TELAS:
+ ![alt text]
+ ![alt text]
  
  TELA INICIAL
  
  
  
 PERMISSÕES:
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    "android.permission.ACCESS_FINE_LOCATION"
+    "android.permission.INTERNET" />
+    "android.permission.ACCESS_NETWORK_STATE"
+    "android.permission.WAKE_LOCK"
     
