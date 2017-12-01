@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_mapa_geral"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mapa Geral" />
+        <item
+            android:id="@+id/nav_lista_locais"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Lista de Locais" />
+        <item
+            android:id="@+id/nav_mapa_visual"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Mapa Visual" />
+        <item
+            android:id="@+id/nav_opcoes"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Opções" />
+    </group>
+
+    <item android:title="Communicate"
+        android:visible="false">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

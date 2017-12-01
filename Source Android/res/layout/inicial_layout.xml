@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/tela"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal"
+        android:layout_margin="8dp"
+        android:id="@+id/linearLayout2">
+
+        <Button
+            android:id="@+id/buttonListaLocais"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="buttonListaLocaisOnClick"
+            android:text="Lista de Locais"
+            android:background="@color/colorButton"
+            android:layout_margin="8dp"
+            android:textColor="@color/textoNormal"/>
+
+        <Button
+            android:id="@+id/buttonMapaLocais"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="buttonMapaLocaisOnClick"
+            android:text="Mapa Geral"
+            android:background="@color/colorButton"
+            android:layout_margin="8dp"
+            android:textColor="@color/textoNormal"/>
+
+        <Button
+            android:id="@+id/buttonMapaVisual"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:background="@color/colorButton"
+            android:onClick="buttonMapaVisualOnClick"
+            android:text="Mapa Visual"
+            android:visibility="gone"
+            android:textColor="@color/textoNormal"/>
+        <Button
+            android:id="@+id/buttonAnalisarImagem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:background="@color/colorButton"
+            android:onClick="buttonDesenvolvedor"
+            android:text="Desenvolvedor"
+            android:visibility="gone"
+            android:textColor="@color/textoNormal"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

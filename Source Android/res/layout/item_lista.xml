@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:id="@+id/listaLayout"
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="#8B4513"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/listaNomeLocal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cachoeira São Bento"
+            android:textColor="@color/textoNormal"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:id="@+id/listaDificuldade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Fácil"
+                android:textColor="@color/textoNormal"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/listaDistancia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="13 KM"
+                android:textColor="@color/textoNormal"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/listaButtonIr"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Ir" />
+
+</LinearLayout>

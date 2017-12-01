@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aventura Na Chapada dos Veadeiros</string>
+
+    <string name="navigation_drawer_open">Abrir menu de navegação</string>
+    <string name="navigation_drawer_close">Fechar menu de navegação</string>
+
+    <string name="action_settings">Sair</string>
+    <string name="title_activity_mapa_geral">Mapa dos Locais</string>
+
+    <string name="info">Vegetação cerrado</string>
+    <string name="buttonMapa">Encontrar Local</string>
+    <string name="radio_cachoeira">Cachoeiras</string>
+    <string name="radio_atrativo">Atrativos</string>
+    <string name="nome_do_local">Nome do Local</string>
+    <string name="img_descrip">Imagem do local, clique aqui para ver com zoom</string>
+    <string name="perfil1">Aplicativo de auxilio na visitação da Chapada</string>
+    <string name="perfil2">Desenvolvido por Sham Vinicius Fiorin</string>
+    <string name="img_perfil">Sham Vinicius Fiorin</string>
+    <string name="post_foto">Postar Foto</string>
+    <string name="buttomAdicionarLocal">Enviar uma Foto</string>
+    <string name="buttonProximo">Proxima</string>
+    <string name="buttonAnterior">Anterior</string>
+    <string name="notificacao_progresso">Enviando Foto</string>
+    <string name="titulo_validation">Validar Imagens</string>
+
+</resources>
