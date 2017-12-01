@@ -21,15 +21,47 @@ FUNCIONALIDADES:
     FOTOS DOS LOCAIS
  
  TELAS:
- <figure>
-  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="10%" height="10%">
-  <figcaption>Miniatura da 
-    torre Eiffel no 
-    Parque Mini-France</figcaption>
-</figure>
- <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="10%" height="10%">
  
- TELA INICIAL
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="25%" height="25%">
+  <figcaption>TELA INICIAL</figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20Menu.png" width="25%" height="25%">
+  <figcaption>TELA MENU DE NAVEGAÇÃO </figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20lista%20local.png" width="25%" height="25%">
+  <figcaption>TELA LISTA DE LOCAIS</figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20mapa.png" width="25%" height="25%">
+  <figcaption>TELA MAPA GERAL </figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20info.png" width="25%" height="25%">
+  <figcaption>TELA INFORMAÇÕES DO LOCAL </figcaption>
+</figure>
+
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20analisar%20img.png" width="25%" height="25%">
+  <figcaption>TELA VALIDAR IMAGEMS RECEBIDAS</figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20validar%20imagem%201.png" width="25%" height="25%">
+  <figcaption>TELA DE VALIDAÇÃO DE IMAGEM RECEBIDA</figcaption>
+</figure>
+
+ <figure>
+  <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20mapa%20especifico.png" width="25%" height="25%">
+  <figcaption>TELA MAPA LOCAL ESPECIFICO</figcaption>
+</figure>
  
  
  
