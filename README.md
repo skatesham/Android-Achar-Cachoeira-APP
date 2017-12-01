@@ -23,13 +23,15 @@ FUNCIONALIDADES:
  TELAS:
  
  <figure>
+    <figcaption>TELA INICIAL</figcaption>
   <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="25%" height="25%">
-  <figcaption>TELA INICIAL</figcaption>
+  
 </figure>
 
  <figure>
+    <figcaption>TELA MENU DE NAVEGAÇÃO </figcaption>
   <p> <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20Menu.png" width="25%" height="25%">
-  <figcaption>TELA MENU DE NAVEGAÇÃO </figcaption>
+  
 </figure>
 
  <figure>
