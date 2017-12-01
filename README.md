@@ -21,7 +21,7 @@ FUNCIONALIDADES:
     FOTOS DOS LOCAIS
  
  TELAS:
- ![alt text]
+ ![alt text]  Android-Achar-Cachoeira-APP/telas/tela inicial.png 
  ![alt text]
  
  TELA INICIAL
