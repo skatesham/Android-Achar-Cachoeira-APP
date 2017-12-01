@@ -24,7 +24,10 @@ FUNCIONALIDADES:
  
 PERMISSÕES:
     android.permission.ACCESS_FINE_LOCATION
+    
     android.permission.INTERNET
+    
     android.permission.ACCESS_NETWORK_STATE
+    
     android.permission.WAKE_LOCK
     
