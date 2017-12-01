@@ -22,7 +22,7 @@ FUNCIONALIDADES:
  
  TELAS:
  ![alt text](https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png)
- ![alt text]
+ ![alt text]( Android-Achar-Cachoeira-APP/telas/tela inicial.png?raw=true)
  
  TELA INICIAL
  
