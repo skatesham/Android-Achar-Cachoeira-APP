@@ -21,7 +21,7 @@ FUNCIONALIDADES:
     FOTOS DOS LOCAIS
  
  TELAS:
- <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="40%" height="40%">
+ <img src="https://raw.githubusercontent.com/skatesham/Android-Achar-Cachoeira-APP/master/telas/tela%20inicial.png" width="10%" height="10%">
  
  TELA INICIAL
  
